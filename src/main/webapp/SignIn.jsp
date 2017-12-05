@@ -41,6 +41,7 @@ $().ready(function() {
 <div id="div" >
 <div style="margin-top:0 auto;text-align: center;">
 <h1>用户登录</h1>
+<p>${message}
 </div>
 </div>
 <hr>

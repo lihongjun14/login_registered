@@ -1,5 +1,9 @@
 package com.li.Model;
-
+/**
+ * 存放一个用户信息的实体类
+ * @author 2016
+ *
+ */
 public class UserBean {
 private String username;
 private String password;
